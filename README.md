@@ -1,7 +1,7 @@
 <h1 align="center">REBRANDING:</h1>
 <h3 align="center">Agent Squad Productions has rebranded to Shadow Development. Please vist the links below and view the information below.</h3>
 <p align="center">
-[<img src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Emblem.png" alt="Shadow Development's Github" height="70" />][newgithub]
+<a href="https://github.com/Shadow-Develops"><img src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Emblem.png" alt="Shadow Development's Github" height="70" /></a>
 </p>
 
 ---
@@ -28,4 +28,3 @@
 [discord]: https://shadowdevs.com/discord
 [twitter]: https://twitter.com/ShadowDevelops
 [email]: mailto:support@shadowdevs.com
-[newgithub]: https://github.com/Shadow-Develops
