@@ -1,5 +1,5 @@
 <h1 align="center">REBRANDING:</h1>
-<h3 align="center">Agent Squad Productions has rebranded to Shadow Development. [Please click here to be redirected!](https://github.com/Shadow-Develops)</h3>
+<h3 align="center">Agent Squad Productions has rebranded to Shadow Development. <a href="https://github.com/Shadow-Develops">Please click here to be redirected!</a></h3>
 <p align="center">
 </p>
 
